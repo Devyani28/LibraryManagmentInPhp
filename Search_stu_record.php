@@ -28,6 +28,7 @@
                                 <img src="img/stud.jpeg" height="400" width="1100">
                 <br>
 <br>
+               
                 <form name="insert_form" method="get" action="<?php echo $_SERVER['PHP_SELF'];?>">
                     <font size="10" color="white"> ENTER ROLL NO: </font><input type="text" name="rn" style="padding: 10px;font-size: 20px;color: white;margin-bottom: 10px;width:400px;width:400px;outline: none;background: transparent;text-align:center"><br><br>
                     <input type="submit" name="bsubmit" id="bsubmit" value="SEARCH RECORD">
